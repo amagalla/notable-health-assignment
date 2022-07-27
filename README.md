@@ -41,3 +41,5 @@
 <p>Swagger UI displays all my endpoint routes there, although if you want to use something like postman, my route base starts with localhost:3000/api/schedules/
 
 <p>To get to Swagger UI go to localhost:3000/admin/swagger</p>
+
+<p> Server is located in app/lib/ directory</p>

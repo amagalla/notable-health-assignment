@@ -14,7 +14,7 @@
 
 <p>***To start***</p>
 
-<p>npm run install</p>
+<p>npm run i</p>
 
 <p>npm run install-app</p>
 

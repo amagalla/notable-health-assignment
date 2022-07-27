@@ -1,0 +1,10 @@
+definition:
+  swagger: "2.0"
+  info:
+    title: "Notable API"
+    version: 1.0.0
+    description: "Notable Calendar API docs"
+  servers:
+    - url: "http://localhost:3000"
+apis:
+  - "./app/lib/routes/api/*.js"
